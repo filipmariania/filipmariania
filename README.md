@@ -1,57 +1,53 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=AimAchieve&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Full Stack|Ecommerce|Blockchain Engineer
   &nbsp;&nbsp;
-  <a href="https://t.me/Shiny0805">
+<!--   <a href="https://t.me/Shiny0805">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30">
-  </a>
+  </a> -->
 </h1>
 
 <h3>
-Hello, dear! 
+Welcome to my profile! 
  
 <br />
 <br />
   
-Before talking about qualifications and professional abilities, I would like to introduce myself.
+As a highly skilled and Senior Fullstack Engineer, I have extensive expertise in FrontEnd & Backend web development, Shopify and Blockchain development. I possess profound knowledge and hands-on experience in all stages of the development process for Blockchain Architecture and Decentralized Applications.
+
+I have 6 years of proffessional experience in programming and graphic design, and my works are not only enchanting but also integrated with graphics, powerful logic, and great insight, blockchain, NFT(ERC721, ERC721A and ERC1155), Metaverse, ERC20, Token, pancakeswap, uniswap, polygon matic bridge, Flashloan, abritrage, crypto trading bot, solidity(Ether blockchain) DAAPs.
+
+My developing proficiency spans across HTML, CSS, JavaScript, Typescript, React, Vue, GraphQL, Solidity, Golang and etc. I look forward to utilizing my talents and expertise to contribute effectively to your projects and ensure outstanding outcomes.
 
 Taking web development as a profession not only fulfills my pocket but also my heart, because it has been my passion since I was a teenager. I have a bachelor's degree in computer science and coursework in e-commerce.
-  
-With over 8 years of development experience, I have solid knowledge of programming and graphic design, and my works are not only enchanting but also integrated with graphics, powerful logic, and great insight.
   
 I am also skilled in problem-solving methods and acquainted with computer languages like React, Vue, and Node. I have worked on 20+ React & Node projects and solved complex business problems, including e-commerce, real estate, and online education. I have consistently saved costs while increasing profits exponentially.
   
 Furthermore, I have been in the blockchain world since 2019. Meanwhile, I built +10 successful projects such as Dex/Defi, NFT Minting Dapp/Marketplace, and Token (ERC-20, BEP-20) on the EVM and Solana networks.
 
 [CORE SKILLS]
-- React JS | Vue.js | Angular | Next JS | Typescript
-- Shopify | Shopify Plus | Shopify App | Shopify Theme Customization | WordPress | Woocommerce
-- JavaScript | HTML5 | CSS | Bootstrap | Tailwind | Material UI 
-- GraphQL | REST APIs | Linux | Serverless 
+- HTML5 | CSS3 | JavaScript | Bootstrap | Tailwind | Material UI 
+- React JS | Next JS | Vue JS | Nuxt JS | Angular JS | Typescript
 - Node.js | Python | Django | Flask | Laravel | Golang
+- Shopify | Shopify Plus | Shopify App | Shopify Theme Customization | WordPress | Woocommerce
+- Blockchain: Solidity | Rust, Dex | Defi, NFT Minting | Marketplace, Token Deployment
+- GraphQL | REST APIs | Linux | Serverless 
 - MySQL | PostgreSQL | MongoDB | SQLite | Firebase 
 - AWS | Netlify | Vercel | Heroku 
-- Terraform | CI/CD | Pipeline 
-- Blockchain: Solidity | Rust, Dex | Defi, NFT Minting | Marketplace, Token Deployment
-
-Besides, my websites are SEO-friendly because they do not fail to satisfy the users. Again, I keep myself up to date with new technologies and their uses, new tools, and new computer languages so that I can give my best level to my clients. I believe in hardship, and hiring me would not fail your decision.
 
 Thank you  
-  🤝 
+
 </h3>
 
 <br/>
 
-<p align="center">
+<!-- <p align  🤝 ="center">
   <a href="https://github.com/aimachieve"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Full-Stack%20Blockchain%20Ecommerce%20Developer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
-</p>
+</p> -->
 
 <br/>
 
-<p align="center" style="margin-bottom: 10px;">
+<!-- <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app?username=HashiramaDev&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
 </p>
 
@@ -63,7 +59,7 @@ Thank you
 
 <p align="center">
 <a href="https://app.daily.dev/aimachieve"><img src="https://github.com/aimachieve/aimachieve/blob/main/devcard.svg" width="400" alt="Aim Achieve's Dev Card"/></a>
-</p>
+</p> -->
 
 <br/>
 
@@ -75,12 +71,12 @@ Thank you
   
 <div align="center" style="witdh:100%">
   
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![React JS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![Vue JS](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -89,7 +85,6 @@ Thank you
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </div>
 
 <div align="center">
@@ -99,15 +94,13 @@ Thank you
 <div align="center" style="witdh:100%"> 
   <br/><h3 align="center"> :open_book: Back end skills</h3><br/>
 
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Node JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express JS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Golang](https://img.shields.io/badge/Golang-%23EF4223.svg?style=for-the-badge&logo=Golang&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-  ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  <!-- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
 </div>
 
 <div align="center">
